@@ -9,7 +9,7 @@ const App = () => {
   return (
       <Layout>
         <Switch>
-          <Route path="/" exact>
+          <Route path="/react-basics" exact>
             <AllMeetupsPage/>
           </Route>
           <Route path="/new-meetup">
