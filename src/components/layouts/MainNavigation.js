@@ -13,7 +13,7 @@ const MainNavigation = () => {
     <nav>
       <ul>
         <li>
-          <Link to="/">All Meetups Page</Link>
+          <Link to="/react-basics">All Meetups Page</Link>
         </li>
         <li>
           <Link to="/new-meetup">New Meetup Page</Link>
